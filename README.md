@@ -2,6 +2,8 @@
 
 飞牛私有云（fnOS）智能风扇与温度管理工具。
 
+本项目来源和上游归属见 [SOURCES.md](./SOURCES.md)。
+
 ## 界面预览
 
 <a href="./docs/images/screenshot1.png"><img src="./docs/images/screenshot1.png" width="500"></a>
